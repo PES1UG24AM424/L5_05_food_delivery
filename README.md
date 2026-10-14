@@ -46,6 +46,6 @@ The code works, but only just. It has quality, style and security problems of th
 2. `issues.md`: the completed issue table.
 3. `reflection.md`: your answers to the reflection questions.
 
-**Target:** aim for a Pylint score above 9.5 on your final file. A perfect 10.00/10 is very good.
+**Target:** aim for a Pylint score above 9.5 on your final file. A perfect 10/10 is very good.
 
 Be ready to explain the bugs you found and how you fixed them. You may be called on to present.
